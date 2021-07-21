@@ -1,3 +1,2 @@
 Hello world
 create new commit
-new change
